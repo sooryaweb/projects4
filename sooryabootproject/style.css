@@ -1,0 +1,45 @@
+.sec2{
+   
+    background-image: url(pic1.avif);
+    background-size: cover;
+    height: 800px;
+    width: 1800px;
+    color: rgb(8, 74, 52);
+}
+.sec2{
+    color: rgb(29, 107, 81);
+    text-align: left;
+    padding: 100px;
+}
+.sec3{
+    padding: 100px;
+    text-align: center;
+}
+.sec4{
+    background-image: url();
+}
+.sec5{
+    background-color: rgb(127, 196, 196);
+    color: azure;
+    height: 400px;
+    text-align: center;
+    padding: 100px;
+}
+.sec6{
+    background-color: rgb(106, 226, 186);
+    color: azure;
+    height: 400px;
+    text-align: center;
+    padding: 100px;
+}
+.sec7{
+    background-color: rgb(42, 43, 42);
+    color: azure;
+    height: 400px;
+    text-align: center;
+    padding: 100px;
+}
+.sec2a{
+    padding: 100px;
+}
+
